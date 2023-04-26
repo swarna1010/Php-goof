@@ -2,7 +2,7 @@ Auth:
   project_token: 82bfe341-3135-4913-96dc-909e4cfee246
   customer_token: 4b36ce06-05a1-43f9-a0e9-0c98a26594fa
 SAST:
-  language: php
+  language: php-snyk-sast
 SCA:
-  language: php
+  language: php-snyk-sca
 Secret_Scan: true
